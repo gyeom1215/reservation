@@ -1,0 +1,17 @@
+ClassroomReservationSystem/
+├── src/
+│   └── com/
+│       └── example/
+│           └── classroomreservation/
+│               ├── MainApp.java                     // GUI 시작점
+│               ├── model/
+│               │   ├── Reservation.java
+│               │   └── Classroom.java (간단한 형태)
+│               ├── service/
+│               │   └── ReservationService.java
+│               └── ui/
+│                   └── StudentReservationFrame.java // 학생용 GUI 프레임
+│               └── util/
+│                   └── JsonDataHandler.java         // JSON 파일 읽기/쓰기
+├── reservations.json                               // 데이터 저장 파일 (실행 시 생성)
+└── pom.xml (Maven 사용 시 Gson 의존성 추가용) 
