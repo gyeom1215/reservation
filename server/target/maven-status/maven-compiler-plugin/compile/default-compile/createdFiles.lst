@@ -1,0 +1,12 @@
+com\deu\reservation\server\protocol\Message.class
+com\deu\reservation\server\ClientHandler.class
+com\deu\reservation\server\manager\ReservationManager$1.class
+com\deu\reservation\server\model\Role.class
+com\deu\reservation\server\manager\ReservationManager.class
+com\deu\reservation\server\model\Room$RoomType.class
+com\deu\reservation\server\model\User.class
+com\deu\reservation\server\model\Reservation.class
+com\deu\reservation\server\model\Room.class
+com\deu\reservation\server\util\NetworkUtil.class
+com\deu\reservation\server\ServerMain.class
+com\deu\reservation\server\model\ReservationStatus.class
