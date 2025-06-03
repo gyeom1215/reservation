@@ -1,0 +1,416 @@
+[
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 915,
+        "name": "정찬",
+        "timeSlots": ["09:00-09:50"],
+        "state": "거절",
+        "day": "화요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 916,
+        "name": "ㄱㄱㅎ",
+        "timeSlots": ["17:00-17:50"],
+        "state": "거절",
+        "day": "금요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 915,
+        "name": "정찬",
+        "timeSlots": ["10:00-10:50"],
+        "state": "거절",
+        "day": "화요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 912,
+        "name": "정찬",
+        "timeSlots": ["12:00-12:50"],
+        "state": "거절",
+        "day": "월요일",
+        "roomType": "일반실"
+    },
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 912,
+        "name": "정찬",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "화요일",
+        "roomType": "일반실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "PROFESSOR",
+        "roomNumber": 911,
+        "name": "정찬",
+        "timeSlots": ["13:00-13:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "STUDENT",
+        "roomNumber": 912,
+        "name": "cs",
+        "timeSlots": ["16:00-16:50"],
+        "state": "거절",
+        "day": "목요일",
+        "roomType": "일반실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    },
+    {
+        "role": "TA",
+        "roomNumber": 998,
+        "name": "테스트사용자",
+        "timeSlots": ["14:00-14:50"],
+        "state": "거절",
+        "day": "수요일",
+        "roomType": "실습실"
+    }
+]

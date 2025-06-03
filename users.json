@@ -1,0 +1,65 @@
+[
+    {
+        "password": "admin123",
+        "role": "ta",
+        "name": "관리자",
+        "id": "admin",
+        "department": "컴퓨터공학과"
+    },
+    {
+        "password": "prof123",
+        "role": "professor",
+        "name": "교수1",
+        "id": "prof1",
+        "department": "컴퓨터공학과"
+    },
+    {
+        "password": "student123",
+        "role": "student",
+        "name": "학생1",
+        "id": "student1",
+        "department": "컴퓨터공학과"
+    },
+    {
+        "password": "테스트",
+        "role": "student",
+        "name": "1234",
+        "id": "test",
+        "department": "컴퓨터공학과"
+    },
+    {
+        "password": "1111",
+        "role": "student",
+        "name": "dg1",
+        "id": "dg1",
+        "department": "sw"
+    },
+    {
+        "password": "1111",
+        "role": "student",
+        "name": "1212",
+        "id": "1212",
+        "department": "sw"
+    },
+    {
+        "password": "1111",
+        "role": "professor",
+        "name": "1213",
+        "id": "1213",
+        "department": "sw"
+    },
+    {
+        "password": "1111",
+        "role": "ta",
+        "name": "1214ta",
+        "id": "1214",
+        "department": "sw"
+    },
+    {
+        "password": "1111",
+        "role": "ta",
+        "name": "1215ta",
+        "id": "1215",
+        "department": "sw"
+    }
+]

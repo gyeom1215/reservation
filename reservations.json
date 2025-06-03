@@ -1,0 +1,1 @@
+[{"role":"student","roomNumber":915,"name":"나겸","timeSlots":["09:00"],"state":"승인","type":"실습실","day":"월"},{"role":"professor","roomNumber":918,"name":"교수-나겸","timeSlots":["10:00"],"state":"대기","type":"실습실","day":"월"},{"role":"professor","roomNumber":912,"name":"교수-나겸","timeSlots":["14:00"],"state":"거절","type":"일반실","day":"금"}]

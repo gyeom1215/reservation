@@ -1,0 +1,24 @@
+{
+    "rooms": [
+        {
+            "roomNumber": 101,
+            "capacity": 30,
+            "schedule": {}
+        },
+        {
+            "roomNumber": 102,
+            "capacity": 30,
+            "schedule": {}
+        },
+        {
+            "roomNumber": 201,
+            "capacity": 40,
+            "schedule": {}
+        },
+        {
+            "roomNumber": 202,
+            "capacity": 40,
+            "schedule": {}
+        }
+    ]
+} 
